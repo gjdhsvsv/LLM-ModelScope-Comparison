@@ -30,7 +30,7 @@
 | --------- | ----------------------------------------------------------------- |
 | 平台        | ModelScope 魔搭社区 CPU Notebook                                      |
 | 运行方式      | Terminal + Python 推理脚本                                            |
-| Python 环境 | Python 3.x                                                        |
+| Python 环境 | Python 3.11                                                        |
 | 核心依赖      | torch CPU、transformers、modelscope、sentencepiece、tiktoken、einops 等 |
 | 模型部署方式    | 本地下载模型权重，并使用 transformers 加载推理                                    |
 | 测试方式      | 三个模型使用同一组中文语义理解问题进行问答测试                                           |
